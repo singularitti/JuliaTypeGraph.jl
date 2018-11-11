@@ -1,6 +1,7 @@
-authors = ["Qi Zhang <singularitti@outlook.com>"]
 name = "JuliaTypeGraph"
 uuid = "14898f62-e398-11e8-1345-f3b41c539d4a"
+authors = ["Qi Zhang <singularitti@outlook.com>"]
 version = "0.1.0"
 
 [deps]
+InteractiveUtils = "b77e0a4c-d291-57a0-90e8-8db25a27a240"
