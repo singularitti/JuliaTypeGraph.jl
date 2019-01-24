@@ -1,4 +1,4 @@
-name = "JuliaTypeGraph"
+name = "TypeGraph"
 uuid = "14898f62-e398-11e8-1345-f3b41c539d4a"
 authors = ["Qi Zhang <singularitti@outlook.com>"]
 version = "0.1.0"

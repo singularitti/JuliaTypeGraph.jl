@@ -1,5 +1,5 @@
 """
-# module JuliaTypeGraph
+# module TypeGraph
 
 Taken from [Google Groups](https://groups.google.com/forum/#!msg/julia-users/ECkQa8vAkko/6tqVeWrexr4J).
 A short julia program that generates the graph of all subtypes of a given type, in png format by default.
@@ -14,7 +14,7 @@ julia> makegraph(Any, "alltypes.dot", "svg")
 => Result here: https://imgur.com/U5vTDNp
 ```
 """
-module JuliaTypeGraph
+module TypeGraph
 
 using InteractiveUtils
 
